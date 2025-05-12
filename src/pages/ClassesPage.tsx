@@ -16,7 +16,7 @@ const ClassesPage = () => {
       id: 1,
       name: 'Power HIIT',
       description: 'High-intensity interval training designed to burn maximum calories and build endurance.',
-      image: 'https://images.pexels.com/photos/7530055/pexels-photo-7530055.jpeg',
+      image: 'https://images.pexels.com/photos/6796971/pexels-photo-6796971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       trainer: 'Alex Johnson',
       level: 'Intermediate',
       duration: 45,

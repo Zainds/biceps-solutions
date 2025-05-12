@@ -135,7 +135,7 @@ const HomePage = () => {
               className="bg-background rounded-lg overflow-hidden shadow-md"
             >
               <img 
-                src="https://images.pexels.com/photos/7530055/pexels-photo-7530055.jpeg" 
+                src="https://images.pexels.com/photos/6796971/pexels-photo-6796971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
                 alt="HIIT Class" 
                 className="w-full h-60 object-cover"
               />
